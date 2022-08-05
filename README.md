@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Álvaro,
 - 👀 I’m interested in developing my professional career as a Data Scientist.
-- 🌱 I’m currently learning Data Science on a very exhaustive learning path on DataQuest.
+- 🌱 I’ve learned Data Science through an exhaustive [Data Scientist path from DataQuest](https://www.dataquest.io/path/data-scientist/), and an [specialization program from DeepLearning.AI and Stanford](https://www.coursera.org/specializations/machine-learning-introduction)
 - 💞️ I’m looking to collaborate on projects to help people make data-based decisions!
 - 📫 How to reach me: alvaro.viudez@gmail.com
 
