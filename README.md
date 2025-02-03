@@ -43,13 +43,13 @@ Currently, I work as a **Behavioral Data Scientist at BeWay**, a Behavioral Scie
 
 **🏆 Codewars Rank:**
 
-![](https://www.codewars.com/users/%C3%81lvaro%20Vi%C3%BAdez/badges/small)
+[![Codewars](https://www.codewars.com/users/%C3%81lvaro%20Vi%C3%BAdez/badges/small)](https://www.codewars.com/users/%C3%81lvaro%20Vi%C3%BAdez/)
 
 
 **🎓 Education:**
 
-- **PhD in Psychology (Experimental Analysis of Behavior)**
-- **Data Science Specialization (DeepLearning.AI & Stanford Online)**
+- **PhD in Psychology** (University of Minho, Portugal)
+- **Data Science Specialization** (DeepLearning.AI & Stanford Online)
 
 
 **📈 Other Interests:**
